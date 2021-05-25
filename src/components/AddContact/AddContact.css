@@ -1,0 +1,36 @@
+* {box-sizing: border-box;}
+.air {
+  max-width: 350px;
+  padding: 20px;
+  background: #E4E3DF;
+  font-family: 'Oswald', sans-serif;
+  margin-bottom: 20px;
+}
+.form-inner {
+  border: 2px solid #909090;
+  border-bottom: none;
+}
+.form-row {
+  position: relative;
+  padding: 10px;
+  border-bottom: 2px solid #909090;
+}
+.form-row label {
+  display: block;
+}
+.form-row input {
+  display: block;
+  width: 100%;
+  padding: 0;
+  line-height: 30px;
+  border-width: 0;
+  background: #E4E3DF;
+}
+.add-button {
+  text-align: center;
+}
+.add-button button {
+  margin-top: 20px;
+  width: 150px;
+}
+

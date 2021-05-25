@@ -1,0 +1,8 @@
+.edit-button {
+  display: flex;
+  text-align: center;
+}
+.edit-button button {
+  margin-top: 20px;
+  width: 150px;
+}
